@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "stage": "started",
-  "status": "running",
+  "stage": "finished",
+  "status": "success",
   "repository": "Kyra168/nev-cninfo-daily",
   "workflow": "NEV 每日巨潮公告入库",
   "run_id": "42386271649",
@@ -10,7 +10,16 @@
   "run_url": "https://github.com/Kyra168/nev-cninfo-daily/actions/runs/42386271649",
   "timezone": "Asia/Shanghai",
   "schedule": "Every day at 17:00 Asia/Shanghai (09:00 UTC)",
-  "updated_at_utc": "2026-11-07T15:25:05+00:00",
-  "updated_at_beijing": "2026-11-07T23:25:05+08:00",
-  "started_at_utc": "2026-11-07T15:25:05+00:00"
+  "updated_at_utc": "2026-11-07T15:26:27+00:00",
+  "updated_at_beijing": "2026-11-07T23:26:27+08:00",
+  "started_at_utc": "2026-11-07T15:25:05+00:00",
+  "finished_at_utc": "2026-11-07T15:26:27+00:00",
+  "collection_outcome": "success",
+  "publish_outcome": "success",
+  "succeeded": 20,
+  "failed": 0,
+  "rows_fetched": 1401,
+  "collection_status": "ok",
+  "database_integrity": "ok",
+  "collection_finished_at": "2026-11-07T23:26:24+08:00"
 }
